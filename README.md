@@ -3,7 +3,9 @@
 A modern and smart clinic website designed to help medical centers attract patients, manage bookings, and provide instant assistance using AI chatbot.
 
 ---
-
+![Home Page](home.png)
+![chat Page](chat.png)
+![booking Page](booking.png)
 ## 🚀 Features
 
 * 🏥 Modern UI Design (React + Tailwind)
