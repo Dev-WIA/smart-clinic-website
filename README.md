@@ -1,16 +1,88 @@
-# React + Vite
+# 🏥 Smart Clinic Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and smart clinic website designed to help medical centers attract patients, manage bookings, and provide instant assistance using AI chatbot.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🏥 Modern UI Design (React + Tailwind)
+* 📅 Appointment Booking via WhatsApp
+* 🤖 AI Chatbot Assistant
+* 📱 Fully Responsive Design
+* ⚡ Fast and lightweight (Vite)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Smart Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Instant booking using WhatsApp
+* Automated responses for:
+
+  * Opening hours
+  * Services
+  * Prices
+* AI-powered chatbot (optional)
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Tailwind CSS
+* Vite
+* Node.js (for AI chatbot)
+
+---
+
+## 📸 Screenshots
+
+*Add your screenshots here*
+
+---
+
+## 🔗 Live Demo
+
+👉 Coming soon...
+
+---
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+You can deploy this project using:
+
+* Vercel
+* Netlify
+
+---
+
+## 💡 Project Goal
+
+This project is built to help clinics:
+
+* Get more patients
+* Simplify booking process
+* Reduce phone calls using chatbot
+
+---
+
+## 📬 Contact
+
+If you want a similar project or customization:
+
+📩 Contact me
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star ⭐ on GitHub!
